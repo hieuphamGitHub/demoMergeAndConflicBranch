@@ -1,5 +1,4 @@
 demo merge and solution conflic branch 
-
 demo tao fiel va MERGR branch
 
 -Ticket
@@ -19,4 +18,5 @@ lap trinh vien : john
 quy tac dat ten nhanh: cac leader se quyet dinh viec dat en cho du an
 featue /[id]-[ticket -title]
 feature/id --001--chuc-nang-quan-ly-du-an
+demo edit file to merge
 
