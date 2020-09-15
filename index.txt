@@ -1,0 +1,22 @@
+demo merge and solution conflic branch 
+
+demo tao fiel va MERGR branch
+
+-Ticket
+-Issue
+
+hai thuat nghu chi task phai lam cua lap trinh vien
+
+-id --001
+chuc nang :login
+lap trinh vien:anna
+
+-id --002
+chuc nang :quan ly khach hang
+lap trinh vien : john
+
+
+quy tac dat ten nhanh: cac leader se quyet dinh viec dat en cho du an
+featue /[id]-[ticket -title]
+feature/id --001--chuc-nang-quan-ly-du-an
+
