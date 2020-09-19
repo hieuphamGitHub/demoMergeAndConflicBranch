@@ -1,1 +1,16 @@
-login screen feature -demo solution conflic 
+login screen feature -demo solution conflic
+
+-----------------------------------------
+-khi nhieu hon hia nguoi cung lam tren mot file-login,khi merge ve nhanh cha-develop se gtao ra xung dot 
+-hai nhanh phai tu merge code cho nhau ,de xu ly xung dot truoc khi merge ve nhanh cha
+-----------------------------------------
+
+nhanh 1 phat trien tinh nang login:
+
+
+edit login fearute file from nhanh2 to solution conflic
+nhanh 2 phat trien tinh nang login
+
+-solution login file conflic from nhanh1 and nhanh2
+-get all document from both branch.
+
